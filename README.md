@@ -3,7 +3,7 @@ Discover a Curated Collection of Beautiful Typefaces.
 
 ## Type Foundries and some of their fonts
 
-### Pangram Pangram Foundry
+### [Pangram Pangram Foundry](https://pangrampangram.com/)
 - Right Serif
 - Pangaia
 - Neue Montreal
@@ -12,7 +12,7 @@ Discover a Curated Collection of Beautiful Typefaces.
 - Migra
 - Monument
 
-### Klim Type Foundry
+### [Klim Type Foundry](https://klim.co.nz/)
 - Domaine
 - Founders Grotesk
 - Manuka
