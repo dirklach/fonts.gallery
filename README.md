@@ -21,6 +21,7 @@ Discover a Curated Collection of Beautiful Typefaces.
 - Tiempos
 
 ### Displaay
+[Website](https://displaay.net/)
 - Bagoss
 - Saans
 - Ofform
