@@ -20,7 +20,7 @@ Discover a Curated Collection of Beautiful Typefaces.
 - Söhne
 - Tiempos
 
-### Displaay [Website](https://displaay.net/)
+### [Displaay](https://displaay.net/)
 - Bagoss
 - Saans
 - Ofform
