@@ -28,4 +28,8 @@ Discover a Curated Collection of Beautiful Typefaces.
 - Reckless
 - Hellix
 
+### [Atipo Foundry](https://www.atipofoundry.com/)
+- Brockmann
+- Borna
+- N27
   
