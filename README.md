@@ -32,4 +32,19 @@ Discover a Curated Collection of Beautiful Typefaces.
 - Brockmann
 - Borna
 - N27
+
+### [Adobe Fonts](https://fonts.adobe.com/)
+- Gyst Variable
+- TT Nooks Script
+- TT Commons Pro
+- Kensington
+- Shuttleblock
+- Miller
+- Dharma Gothic E
+- Termina
+- Bebas Neue
+- Widescreen
+- URW Classico
+- Tangier
+- Norman Variable
   
