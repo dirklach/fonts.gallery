@@ -1,5 +1,5 @@
 # fonts.gallery
-Discover a Curated Collection of Beautiful Typefaces.
+Discover a Curated Collection of Beautiful Typefaces · Handpicked by Dirk Lach (Designer & Developer)
 
 ### [Pangram Pangram Foundry](https://pangrampangram.com/)
 - Right Serif
