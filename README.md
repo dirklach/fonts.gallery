@@ -47,4 +47,11 @@ Discover a Curated Collection of Beautiful Typefaces.
 - URW Classico
 - Tangier
 - Norman Variable
+
+### [Good Type Foundry](https://goodtypefoundry.com/)
+- GTF Adieu
+- PP NeueBit
+- GTF Faxi
+- Plakat Grotesk
+- GTF Good Sans
   
